@@ -2,9 +2,9 @@ You can use markdown to add content to you webpage.
 
 Here are some highlights of markdown syntax.
 
-# Heading 1
-## Heading 2
-### Heading 3
+# Top heading
+## Sub-heading
+### Third level heading 
 
 **bold**
 *italics*
@@ -20,3 +20,9 @@ Here are some highlights of markdown syntax.
 
 Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
+
+
+1. ***Test list***
+2. Another item
+
+[New York Heritage](https://nyheritage.org)
