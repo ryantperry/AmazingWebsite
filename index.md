@@ -26,3 +26,4 @@ Here is an image. Don't forget some alt text for better accessibility!
 2. Another item
 
 [New York Heritage](https://nyheritage.org)
+![NYH logo] (images/nyheritage.png)
